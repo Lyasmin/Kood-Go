@@ -1,11 +1,22 @@
-Abacus Function
-Instructions
-Create a function named Abacus that takes two integer (int) values as parameters: a, the dividend, and b, the divisor. The function should return the result of integer division.
+# Abacus
 
-Expected Function Signature
+## Learning Objectives
+
+- **Understand the structure of functions in Go.**
+- **Manage and manipulate values stored in variables.**
+- **Use the return statement effectively.**
+- **Test and debug your code for any issues.**
+
+## Instructions
+
+Create a function named `Abacus` that takes two integer (`int`) values as parameters: `a`, the dividend, and `b`, the divisor. The function should return the result of integer division.
+
+### Expected Function Signature
+
+```go
 package sprint
 
 func Abacus(a int, b int) int {
 
 }
-aaaaaaa
+```
