@@ -20,3 +20,5 @@ func Abacus(a int, b int) int {
 
 }
 ```
+
+Solution [here](https://github.com/Lyasmin/Kood-Go/blob/master/data-types_variables_calculations/abacus.go)
